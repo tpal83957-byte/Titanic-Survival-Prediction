@@ -17,9 +17,11 @@ Machine learning model to predict passenger survival on the Titanic using Random
 - **Sex** was the second most important factor (women survived more)
 - **Age** was the third most important predictor
 
-<img width="567" height="455" alt="EDA_Chart" src="https://github.com/user-attachments/assets/e2c07581-4224-4d75-9acb-987d7ae3ee59" />
+<img width="500" height="400" alt="EDA_Chart" src="https://github.com/user-attachments/assets/e2c07581-4224-4d75-9acb-987d7ae3ee59" />
 
-<img width="618" height="432" alt="Feature_importance_chart" src="https://github.com/user-attachments/assets/9e2f086a-f01d-4716-9c83-38242abda5f7" />
+
+
+<img width="600" height="400" alt="Feature_importance_chart" src="https://github.com/user-attachments/assets/9e2f086a-f01d-4716-9c83-38242abda5f7" />
 
 
 ## Features Used
