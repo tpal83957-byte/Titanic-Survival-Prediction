@@ -7,7 +7,7 @@ Machine learning model to predict passenger survival on the Titanic using Random
 - **Accuracy: 81.01%**
 - **Model:** Random Forest Classifier (100 trees)
 - **Dataset:** 891 passengers, 6 features
-  <img width="500" height="470" alt="result1" src="https://github.com/user-attachments/assets/ac451a46-f5d3-40ef-8929-23a0177a6c53" />
+  <img width="500" height="350" alt="result1" src="https://github.com/user-attachments/assets/ac451a46-f5d3-40ef-8929-23a0177a6c53" />
 
 ## Key Findings
 - **Fare** was the strongest predictor of survival
