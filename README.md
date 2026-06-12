@@ -21,7 +21,7 @@ Machine learning model to predict passenger survival on the Titanic using Random
 
 
 
-<img width="600" height="400" alt="Feature_importance_chart" src="https://github.com/user-attachments/assets/9e2f086a-f01d-4716-9c83-38242abda5f7" />
+<img width="500" height="400" alt="Feature_importance_chart" src="https://github.com/user-attachments/assets/9e2f086a-f01d-4716-9c83-38242abda5f7" />
 
 
 ## Features Used
